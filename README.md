@@ -4,11 +4,35 @@ Useful tutorials, blogs and screencasts about SciRuby tools. Contributions [welc
 
 # Data Analysis
 
+## Blogs
+
+## Notebooks
+
+## Screencasts
+
 # Linear Algebra
+
+## Blogs
+
+## Notebooks
+
+## Screencasts
 
 # Visualization
 
+## Blogs
+
+## Notebooks
+
+## Screencasts
+
 # Misc.
+
+## Conference Talks
+
+## Webinars
+
+## Podcasts
 
 ## Contributing your own tutorials
 
