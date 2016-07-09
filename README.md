@@ -35,6 +35,7 @@ Useful tutorials, blogs and screencasts about SciRuby tools. Contributions [welc
 
 ## Screencasts
 
+* [benchmark-plot](https://youtu.be/WW6M4Df-soQ).
 
 ## Webinars
 
