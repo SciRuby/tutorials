@@ -6,6 +6,8 @@ Useful tutorials, blogs and screencasts about SciRuby tools. Contributions [welc
 
 ## Blogs
 
+* [Example logistic regression with categorical data (shelter animal data from a kaggle competition)](http://www.alexejgossmann.com/categorical_data_glm_in_ruby/)
+
 ## Notebooks
 
 ## Screencasts
