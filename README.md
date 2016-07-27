@@ -16,6 +16,8 @@ Useful tutorials, blogs and screencasts about SciRuby tools. Contributions [welc
 
 ## Blogs
 
+* [Installing NMatrix with Intel MKL on my university's high performance computing system](http://www.alexejgossmann.com/nmatrix-on-my-universities-hpc/)
+
 ## Notebooks
 
 ## Screencasts
