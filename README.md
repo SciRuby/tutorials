@@ -10,6 +10,10 @@ Useful tutorials, blogs and screencasts about SciRuby tools. Contributions [welc
 
 ## Notebooks
 
+* [10 Minutes to daru](https://github.com/sciruby-jp/survey/blob/master/10-Minutes-to-daru.ipynb)
+* [Merge, join and concatenate with daru](https://github.com/sciruby-jp/survey/blob/master/Merge%2C%20join%2C%20and%20concatenate.ipynb)
+* [Pandas cookbook with daru](https://github.com/sciruby-jp/survey/blob/master/pandas-cookbook-with-daru.ipynb)
+
 ## Screencasts
 
 # Linear Algebra
